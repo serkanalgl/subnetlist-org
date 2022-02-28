@@ -22,7 +22,7 @@ const theme = createMuiTheme({
       outlinedPrimary: {
         border: '1px solid #FFFFFF1A',
         "&:hover": {
-          backgroundColor: '#2F80ED !important',
+          backgroundColor: '#E84142 !important',
           color: '#fff'
         }
       }
