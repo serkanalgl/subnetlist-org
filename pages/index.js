@@ -133,7 +133,7 @@ function Home({ changeTheme, theme }) {
                 onClick={ addNetwork }
                 endIcon={<AddIcon />}
               >
-                <Typography className={ classes.buttonLabel }>Add Your Network</Typography>
+                <Typography className={ classes.buttonLabel }>Add Your Subnet</Typography>
               </Button>
               <div className={ classes.socials }>
                 <a className={ `${classes.socialButton}` } href='https://github.com/serkanalgl/subnetlist-org.git' target='_blank' rel="noopener noreferrer" >
